@@ -1,7 +1,3 @@
-[![Solana](https://img.shields.io/badge/Solana-2.x-14F195?style=flat-square&logo=solana)](https://solana.com)
-[![Rust](https://img.shields.io/badge/Rust-1.75+-CE412B?style=flat-square&logo=rust)](https://www.rust-lang.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
-
 A minimal, production-ready Rust reference demonstrating atomic composable flash loans on **Save Finance** (formerly Solend) using `solana-sdk` 2.x and Versioned Transactions (`v0`).
 
 ## Overview
