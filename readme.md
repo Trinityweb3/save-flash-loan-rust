@@ -13,7 +13,7 @@ Unlike legacy CPI callback patterns, composable flash loans on Save Finance util
 
 ## Quickstart
 
-### Prerequisites
+### Prerequirements
 - [Rust](https://rust-lang.org/tools/install/) 
 - A funded Solana keypair located at `~/.config/solana/id.json`  
 
